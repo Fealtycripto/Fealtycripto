@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/brand/criptozion-horizontal-white-v1.svg">
-  <img src="assets/brand/criptozion-horizontal-ink-v1.svg" alt="CriptoZion — logo oficial Transformação" width="340">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/brand/criptozion-horizontal-brand-v1.svg">
+  <img src="assets/brand/criptozion-horizontal-brand-light-v1.svg" alt="CriptoZion — logo oficial Transformação" width="340">
 </picture>
 
 # Rony Costa (Zion)
