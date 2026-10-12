@@ -1,126 +1,55 @@
-<p align="center">
-  <img src="banner.png" alt="Cripto Zion Banner" width="100%"/>
-</p>
+# Rony Costa (Zion)
 
-<h1 align="center">
-  👋 Fala! Eu sou o <a href="https://criptozion.xyz" target="_blank">Rony Costa (Zion)</a>
-</h1>
+**Empreendedor e criador de conteúdo · Fundador do CriptoZion · Criador da Zion Smart DCA**
 
-<p align="center">
-  <b>Empreendedor e criador de conteúdo · Fundador do <a href="https://criptozion.xyz">CriptoZion</a> e criador da Zion Smart DCA</b><br/>Bitcoin, DeFi e tecnologia
-</p>
+Construo conteúdos e ferramentas para ajudar pessoas a estudar Bitcoin e DeFi, organizar aportes e entender seus cenários financeiros. Meu foco é unir educação financeira, análise de dados, tecnologia e IA aplicada a ferramentas financeiras.
 
-<p align="center">
-  <a href="https://criptozion.xyz"><img src="https://img.shields.io/badge/🌐_Site-criptozion.xyz-0D1117?style=for-the-badge&labelColor=0D1117&color=F7931A" alt="Site"/></a>
-  <a href="https://youtube.com/@CriptoZion"><img src="https://img.shields.io/badge/YouTube-@CriptoZion-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=0D1117" alt="YouTube"/></a>
-  <a href="https://instagram.com/criptozion"><img src="https://img.shields.io/badge/Instagram-@criptozion-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0D1117" alt="Instagram"/></a>
-  <a href="https://x.com/0xFealty"><img src="https://img.shields.io/badge/𝕏-@0xFealty-0D1117?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117" alt="X"/></a>
-</p>
+[Conheça o CriptoZion](https://criptozion.xyz) · [YouTube](https://youtube.com/@CriptoZion) · [Instagram](https://instagram.com/criptozion) · [X](https://x.com/0xFealty)
 
----
+## CriptoZion e Zion Smart DCA
 
-### Rony Costa (Zion)
+O **CriptoZion** reúne educação sobre Bitcoin e DeFi, conteúdos e ferramentas para planejamento de longo prazo. O site apresenta a calculadora, o overview de mercado, a Academy e o laboratório de liquidez; o acesso à plataforma exige conta e alguns recursos dependem do Zion Pass.
 
-Conhecido também como Fealty. Rony Costa (Zion) é empreendedor, criador de conteúdo, fundador do CriptoZion e criador da Zion Smart DCA. Atua em educação sobre Bitcoin e DeFi e no desenvolvimento de produtos digitais com apoio de tecnologia e inteligência artificial. É sócio da DoubleDyn e empreendedor na Vila Pet Banho e Tosa.
+A **Zion Smart DCA** é uma metodologia e um projeto de software em evolução para organização de aportes, gestão de caixa e decisões baseadas em regras. Seu repositório público reúne um motor em Python, um dashboard educacional e arquivos de simulação e backtesting. Esses experimentos não comprovam resultados de investimentos reais.
 
-CriptoZion, Zion Smart DCA, DoubleDyn e Vila Pet Banho e Tosa têm identidades próprias. A DoubleDyn é uma iniciativa independente do CriptoZion.
+**Visão de evolução:** “CriptoZion — Autonomous Wealth Operating System”. Autonomia é uma direção de pesquisa e desenvolvimento; as integrações experimentais ainda precisam de validação.
 
-[Minicurrículo público](MINICURRICULO.md) · [Dados públicos aprovados — BIO-1.0](identidade-publica.json) · [Conferência manual](VERIFICACAO-IDENTIDADE.md)
+## Projetos que você pode explorar
 
-### 🏛️ Sobre o Cripto Zion
+### [Zion Smart DCA Skill](https://github.com/Fealtycripto/zion-smart-dca-skill)
 
-Cripto Zion é uma comunidade de educação e investimento em criptomoedas com foco em **estratégias de longo prazo**. Nada de promessas milagrosas — aqui é **pedra sobre pedra**.
+Protótipo público para estudar decisões de acumulação de Bitcoin. Inclui código da estratégia, dados históricos, relatórios de simulação e um dashboard HTML. Parte dos indicadores do dashboard é simulada; os resultados históricos devem ser lidos com suas premissas e limitações.
 
-> *"Construir riqueza constante — não da noite para o dia, mas pedra sobre pedra."*
+[Leia a documentação e o código](https://github.com/Fealtycripto/zion-smart-dca-skill#readme) · [Veja os arquivos de backtest](https://github.com/Fealtycripto/zion-smart-dca-skill/tree/master/backtest)
 
-🎯 **Missão:** Tornar o mercado cripto acessível e estratégico para investidores da América Latina.
+### [CriptoZion](https://criptozion.xyz)
 
----
+Site público para conhecer os conteúdos, as ferramentas e a comunidade. Comece pelos fundamentos ou conheça o acesso à plataforma.
 
-### 🧠 O que construímos
+[Conheça o método](https://criptozion.xyz/estrategias) · [Acesse a plataforma](https://app.criptozion.xyz/login?next=%2F)
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h4>📊 Zion Smart DCA</h4>
-      <p>Metodologia e projeto de software em evolução para organização de aportes, gestão de caixa e decisões baseadas em regras</p>
-    </td>
-    <td align="center" width="33%">
-      <h4>🎓 Zion Academy</h4>
-      <p>4 trilhas de aprendizado: do iniciante ao avançado — DeFi, Pools, Segurança</p>
-    </td>
-    <td align="center" width="33%">
-      <h4>📈 Dashboard DCA</h4>
-      <p>Tracker de portfólio com preços ao vivo, Fear & Greed Index e calculadora</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <h4>🤖 Bot Telegram</h4>
-      <p>Alertas diários de preço, F&G e resumo do mercado cripto</p>
-    </td>
-    <td align="center" width="33%">
-      <h4>📝 Blog & Artigos</h4>
-      <p>Conteúdo educacional com artigos free e premium sobre cripto</p>
-    </td>
-    <td align="center" width="33%">
-      <h4>💼 Carteira "Trust Me Bro"</h4>
-      <p>Carteira comunitária com aportes reais seguindo o Smart DCA</p>
-    </td>
-  </tr>
-</table>
+### [Identidade e trajetória](MINICURRICULO.md)
+
+Minicurrículo público e apresentação dos projetos. Também sou sócio da **DoubleDyn**, iniciativa independente do CriptoZion, e empreendedor na **Vila Pet Banho e Tosa**.
+
+## Tecnologias nos projetos públicos
+
+- **Python**, pandas e NumPy para cálculo e análise de dados.
+- **HTML, CSS e JavaScript** no dashboard educacional.
+- **Chart.js** para gráficos e **FastAPI** no protótipo de API.
+
+As tecnologias acima estão presentes nos arquivos públicos; não representam certificações ou níveis de senioridade pessoal.
+
+## Foco atual e próximos passos
+
+O trabalho existente reúne conteúdo educacional, um protótipo público e ferramentas apresentadas no site. Meu foco de evolução é melhorar a clareza da documentação e a rastreabilidade dos dados e das simulações. Integrações autônomas e comparações de estratégias exigem validação antes de serem apresentadas como capacidades prontas.
+
+## English at a glance
+
+I'm Rony Costa (Zion), founder of CriptoZion and creator of Zion Smart DCA. I build educational content and evolving software around Bitcoin, DeFi, financial planning and data analysis. The public repository contains experimental tools and historical simulations; autonomous capabilities remain a development vision.
 
 ---
 
-### ⚙️ Stack & Ferramentas
+[Minicurrículo](MINICURRICULO.md) · [Identidade pública — BIO-1.0](identidade-publica.json) · [Conferência da identidade](VERIFICACAO-IDENTIDADE.md)
 
-Tecnologias presentes nos projetos; esta lista não representa certificações ou senioridade pessoal.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/>
-  <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" alt="PM2"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-  <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini"/>
-</p>
-
----
-
-### 📊 Estratégias que ensinamos
-
-| Estratégia | Descrição |
-|:----------:|:----------|
-| 💰 **DCA** | Dollar Cost Averaging — aportes consistentes, independente do preço |
-| 📉 **Smart DCA** | DCA otimizado com RSI + Fear & Greed Index |
-| 🏊 **Pools de Liquidez** | Rendimento passivo via DeFi (Uniswap, Aerodrome, Orca) |
-| 🎯 **Scaling Out** | Saída parcial nos alvos — nunca é tudo ou nada |
-
----
-
-### 🔗 Links Úteis
-
-| | Link |
-|:--:|:-----|
-| 🌐 | **[criptozion.xyz](https://criptozion.xyz)** — Site principal |
-| 📊 | **[app.criptozion.xyz](https://app.criptozion.xyz)** — Dashboard DCA |
-| 🎓 | **[Academy](https://criptozion.xyz/academy.html)** — Trilhas de aprendizado |
-| 📰 | **[Blog](https://criptozion.xyz/blog.html)** — Artigos educacionais |
-| 🧮 | **[Calculadora](https://criptozion.xyz/calculadora.html)** — Simulador DCA |
-| 📰 | **[Newsletter](https://criptozion.xyz/newsletter.html)** — Fique por dentro |
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🇧🇷_Feito_no_Brasil-009739?style=for-the-badge&labelColor=009739" alt="Brasil"/>
-</p>
-
-<p align="center">
-  <i>NÃO é conselho de investimento. Faça sua própria pesquisa (DYOR).</i>
-</p>
+Conteúdo educacional. Simulações e backtests não garantem retorno e não constituem recomendação de investimento.
