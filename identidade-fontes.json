@@ -1,0 +1,8 @@
+{
+  "version": "BIO-1.0",
+  "sources": [
+    {"path": "identidade-publica.json", "kind": "data"},
+    {"path": "README.md", "end": "### 🏛️ Sobre o Cripto Zion", "required": ["rony costa", "fundador", "criador", "zion smart dca", "doubledyn", "socio", "independente", "bio-1.0"]},
+    {"path": "MINICURRICULO.md", "required": ["rony costa", "criptozion.*fundador", "doubledyn.*socio", "vila pet banho e tosa.*empreendedor", "evolucao", "bio-1.0"]}
+  ]
+}

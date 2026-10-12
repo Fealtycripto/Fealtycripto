@@ -3,11 +3,11 @@
 </p>
 
 <h1 align="center">
-  👋 Fala! Eu sou o <a href="https://criptozion.xyz" target="_blank">Fealty</a>
+  👋 Fala! Eu sou o <a href="https://criptozion.xyz" target="_blank">Rony Costa (Zion)</a>
 </h1>
 
 <p align="center">
-  <b>Fundador do <a href="https://criptozion.xyz">Cripto Zion</a></b> — construindo a maior referência cripto da América Latina 🌎
+  <b>Empreendedor e criador de conteúdo · Fundador do <a href="https://criptozion.xyz">CriptoZion</a> e criador da Zion Smart DCA</b><br/>Bitcoin, DeFi e tecnologia
 </p>
 
 <p align="center">
@@ -18,6 +18,14 @@
 </p>
 
 ---
+
+### Rony Costa (Zion)
+
+Conhecido também como Fealty. Rony Costa (Zion) é empreendedor, criador de conteúdo, fundador do CriptoZion e criador da Zion Smart DCA. Atua em educação sobre Bitcoin e DeFi e no desenvolvimento de produtos digitais com apoio de tecnologia e inteligência artificial. É sócio da DoubleDyn e empreendedor na Vila Pet Banho e Tosa.
+
+CriptoZion, Zion Smart DCA, DoubleDyn e Vila Pet Banho e Tosa têm identidades próprias. A DoubleDyn é uma iniciativa independente do CriptoZion.
+
+[Minicurrículo público](MINICURRICULO.md) · [Dados públicos aprovados — BIO-1.0](identidade-publica.json) · [Conferência manual](VERIFICACAO-IDENTIDADE.md)
 
 ### 🏛️ Sobre o Cripto Zion
 
@@ -35,7 +43,7 @@ Cripto Zion é uma comunidade de educação e investimento em criptomoedas com f
   <tr>
     <td align="center" width="33%">
       <h4>📊 Zion Smart DCA</h4>
-      <p>Estratégia proprietária de Dollar Cost Averaging com indicadores on-chain (RSI, Fear & Greed)</p>
+      <p>Metodologia e projeto de software em evolução para organização de aportes, gestão de caixa e decisões baseadas em regras</p>
     </td>
     <td align="center" width="33%">
       <h4>🎓 Zion Academy</h4>
@@ -65,6 +73,8 @@ Cripto Zion é uma comunidade de educação e investimento em criptomoedas com f
 ---
 
 ### ⚙️ Stack & Ferramentas
+
+Tecnologias presentes nos projetos; esta lista não representa certificações ou senioridade pessoal.
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
@@ -109,7 +119,6 @@ Cripto Zion é uma comunidade de educação e investimento em criptomoedas com f
 
 <p align="center">
   <img src="https://img.shields.io/badge/🇧🇷_Feito_no_Brasil-009739?style=for-the-badge&labelColor=009739" alt="Brasil"/>
-  <img src="https://img.shields.io/badge/Meta_2030-Maior_Ref._Cripto_LATAM-F7931A?style=for-the-badge&labelColor=0D1117" alt="Meta 2030"/>
 </p>
 
 <p align="center">
