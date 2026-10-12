@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/brand/criptozion-horizontal-white-v1.svg">
+  <img src="assets/brand/criptozion-horizontal-ink-v1.svg" alt="CriptoZion — logo oficial Transformação" width="340">
+</picture>
+
 # Rony Costa (Zion)
 
 **Empreendedor e criador de conteúdo · Fundador do CriptoZion · Criador da Zion Smart DCA**
