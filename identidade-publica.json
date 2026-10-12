@@ -1,0 +1,58 @@
+{
+  "version": "BIO-1.0",
+  "editorial_review": "2026-10-11",
+  "timezone": "America/Sao_Paulo",
+  "source": {
+    "kind": "user_approved_professional_facts",
+    "date": "2026-10-11"
+  },
+  "person": {
+    "name": "Rony Costa (Zion)",
+    "preferred_name": "Zion",
+    "aliases": [
+      "Fealty",
+      "Fealty Crypto",
+      "Fealty Cripto",
+      "@0xFealty",
+      "@Fealtycripto"
+    ],
+    "activities": [
+      "Empreendedor",
+      "Criador de conteúdo",
+      "Educação sobre Bitcoin e DeFi",
+      "Desenvolvimento de produtos com apoio de tecnologia e inteligência artificial"
+    ]
+  },
+  "brand": {
+    "name": "CriptoZion",
+    "person_role": "Fundador"
+  },
+  "methodology": {
+    "name": "Zion Smart DCA",
+    "person_role": "Criador",
+    "status": "Metodologia e projeto de software em evolução"
+  },
+  "independent_initiatives": [
+    {
+      "name": "DoubleDyn",
+      "person_role": "Sócio",
+      "relationship_to_brand": "Independente do CriptoZion",
+      "focus": "Tecnologia e sustentabilidade; carbono, rastreabilidade e organização de informações ambientais"
+    },
+    {
+      "name": "Vila Pet Banho e Tosa",
+      "person_role": "Empreendedor",
+      "relationship_to_brand": "Frente independente",
+      "focus": "Gestão de negócio local no setor de serviços pet, com atuação em banho e tosa"
+    }
+  ],
+  "texts": {
+    "title": "Rony Costa (Zion) | Empreendedor e criador de conteúdo | Fundador do CriptoZion e criador da Zion Smart DCA | Bitcoin, DeFi e tecnologia",
+    "short_bio": "Rony Costa (Zion) é empreendedor, criador de conteúdo, fundador do CriptoZion e criador da Zion Smart DCA. Atua em educação sobre Bitcoin e DeFi e no desenvolvimento de produtos digitais com apoio de tecnologia e inteligência artificial. É sócio da DoubleDyn e empreendedor na Vila Pet Banho e Tosa.",
+    "first_person_bio": "Sou Rony Costa, conhecido como Zion e Fealty. Sou empreendedor, criador de conteúdo e fundador do CriptoZion. Desenvolvo conteúdos e ferramentas que aproximam Bitcoin, finanças descentralizadas, tecnologia e planejamento de longo prazo. Sou o criador da Zion Smart DCA, metodologia e projeto de software em evolução voltado à organização de aportes, gestão de caixa e decisões baseadas em regras. Minha trajetória inclui a gestão da Vila Pet Banho e Tosa e a participação como sócio na DoubleDyn, iniciativa independente do CriptoZion que conecta tecnologia e sustentabilidade.",
+    "brand_description": "CriptoZion: educação sobre Bitcoin e DeFi, conteúdos e ferramentas para planejamento de longo prazo. Fundado por Rony Costa (Zion), criador da Zion Smart DCA.",
+    "founder_summary": "Empreendedor, criador de conteúdo, fundador do CriptoZion e criador da Zion Smart DCA.",
+    "methodology_summary": "Zion Smart DCA é uma metodologia e um projeto de software em evolução voltados à organização de aportes, gestão de caixa e decisões baseadas em regras.",
+    "independent_summary": "É sócio da DoubleDyn, iniciativa independente do CriptoZion que conecta tecnologia e sustentabilidade, e empreendedor na Vila Pet Banho e Tosa."
+  }
+}
